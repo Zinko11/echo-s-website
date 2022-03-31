@@ -1,4 +1,19 @@
  
 h1.logo{
     font-family: 'Palette Mosaic', cursive;
+    position: relative;
+    top: auto;
+    left: auto;
+}
+li{
+  display: inline;
+  margin: 20px;
+  font-size: 20px;
+}
+div.menu{
+    background-color:#0066ff;
+    text-align: right; 
+    position: relative;
+    top: 10px;
+    padding: 20px; 
 }
