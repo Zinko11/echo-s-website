@@ -16,4 +16,9 @@ div.menu{
     position: relative;
     top: 10px;
     padding: 20px; 
+    font-family: 'Josefin Sans', sans-serif;
+}
+li.logo{
+  position: relative;
+  
 }
