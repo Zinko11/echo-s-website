@@ -1,7 +1,4 @@
  
-body{
-    background-image: url( "files/backgroundbluewithlightblue.png")
-}
 h1.logo{
-    text-align: center;
+    font-family: 'Palette Mosaic', cursive;
 }
