@@ -23,3 +23,6 @@ button.menu{
 button{
     background-color: transparent;
 }
+body{
+    background: linear-gradient(to top, #ff99ff 0%, #ffff99 100%);
+}
