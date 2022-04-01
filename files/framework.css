@@ -19,10 +19,8 @@ button.menu{
     left: 700px;
     border: 20px;
     margin:10px;
+    text-align: right;
 }
 button{
     background-color: transparent;
-}
-body{
-    background: linear-gradient(to top, #ff99ff 0%, #ffff99 100%);
 }
