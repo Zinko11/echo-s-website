@@ -27,3 +27,15 @@ button{
 body{
     background-color: #ffc6eb;
 }
+div.about{
+    position: relative;
+    top: 50px;
+    left: 300px;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+}
+p.about_paragraph{
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+}
