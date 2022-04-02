@@ -1,38 +1,15 @@
  
 h1.logo{
     font-family: 'Palette Mosaic', cursive;
-    position: relative;
-    top: auto;
-    left: auto;
 }
 button.logo{
-    text-align: left;
-    border: 20px;
-    font-size: 30px;
     font-family: 'Josefin Sans', sans-serif;
-    position: relative;
-    top: 10px;
-    left: 10px;
 }
-button.menu{
-    position: relative;
-    left: 700px;
-    border: 20px;
-    margin:10px;
+
+h1.logo{
+    text-align: left;
+}
+div
+{   height: 30px;
     text-align: right;
-}
-button{
-    background-color: transparent;
-}
-body{
-    background-color: #ffc6eb;
-}
-div.about{
-   size: 200px;
-   text-align: center;
-}
-p.about_paragraph{
-    position: relative;
-    top: 50px;
-    font-size: 20px;
 }
