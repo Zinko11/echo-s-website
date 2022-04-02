@@ -1,15 +1,36 @@
- 
-h1.logo{
-    font-family: 'Palette Mosaic', cursive;
-}
-button.logo{
+
+li.logo{
     font-family: 'Josefin Sans', sans-serif;
+    size: 50px;
 }
 
-h1.logo{
-    text-align: left;
+nav ul{
+    display: flex;
+    list-style-type:none;
+    height: 70px;
+    background-color: blue;
+    color: antiquewhite;
+    align-items: center;
 }
-div
-{   height: 30px;
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo img{
+    width: 200px;
+}
+nav ul li{
+    padding: 0 10px;
+}
+nav{
     text-align: right;
+}
+div.container{
+    background-color: brown;
+    height: 500px;
+    margin: 20px auto;
+    width: 98%;
+}
+div.ABOUT{
+    margin: 15px;
 }
