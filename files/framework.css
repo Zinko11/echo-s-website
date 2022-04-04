@@ -8,8 +8,6 @@ nav ul{
     display: flex;
     list-style-type:none;
     height: 70px;
-    background-color: blue;
-    color: antiquewhite;
     align-items: center;
 }
 *{
@@ -26,11 +24,21 @@ nav{
     text-align: right;
 }
 div.container{
-    background-color: brown;
     height: 500px;
     margin: 20px auto;
     width: 98%;
 }
 div.ABOUT{
-    margin: 15px;
+    margin: 20px;
+}
+body{
+    background: linear-gradient(to bottom right, #ff99cc 0%, #ff66ff 100%);
+}
+div.ABOUT{
+    height: auto;
+    width: 250px;
+    text-align: center;
+    background-color: blue;
+    font-size: large;
+    font-family: 'Josefin Sans', sans-serif;
 }
