@@ -29,16 +29,15 @@ div.container{
     width: 98%;
 }
 div.ABOUT{
-    margin: 20px;
+    margin: 0  30px;
 }
 body{
     background: linear-gradient(to bottom right, #ff99cc 0%, #ff66ff 100%);
 }
 div.ABOUT{
     height: auto;
-    width: 250px;
+    width: 700px;
     text-align: center;
-    background-color: blue;
-    font-size: large;
-    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    font-family: 'Send Flowers', cursive;
 }
